@@ -1,0 +1,19 @@
+#team .row{
+    justify-content: center;
+}
+#about2 .section-header{
+    margin:20px;
+}
+#about2 .row{
+    margin-bottom: 100px;
+}
+#services .box{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+#services .icon{
+    left:10px;
+}
+#header .logo img{
+    max-height:50px;
+}
